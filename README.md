@@ -1,0 +1,1 @@
+# omniauth-mailru-oauth2
