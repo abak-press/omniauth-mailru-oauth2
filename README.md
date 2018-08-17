@@ -1,5 +1,7 @@
 # OmniAuth strategy for Mail.ru
 
+[![Build Status](https://drone.railsc.ru/api/badges/abak-press/omniauth-mailru-oauth2/status.svg)](https://drone.railsc.ru/abak-press/omniauth-mailru-oauth2)
+
 OmniAuth strategy for Mail.ru
 
 ## Installation
