@@ -27,5 +27,7 @@ build:
     when:
       event: push
       branch: master
+    volumes:
+      - /home/data/drone/rubygems:/root/.gem
     commands:
       - release-gem --public
